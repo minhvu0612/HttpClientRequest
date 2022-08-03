@@ -1,0 +1,344 @@
+# depslib dependency file v1.0
+1618542833 source:i:\my drive\teaching\lap trinh he thong mang\examples\echoclient\cli.cpp
+	<iostream>
+	<cstring>
+	"cli.h"
+
+1618542639 i:\my drive\teaching\lap trinh he thong mang\examples\echoclient\cli.h
+	<cstdint>
+	<string>
+
+1618544822 source:i:\my drive\teaching\lap trinh he thong mang\examples\echoclient\echocli.cpp
+	"echocli.h"
+	<iostream>
+
+1618544342 i:\my drive\teaching\lap trinh he thong mang\examples\echoclient\echocli.h
+	"cli.h"
+	"tcpsocket.h"
+	"echotcpclient.h"
+
+1585745736 i:\my drive\teaching\lap trinh he thong mang\examples\echoclient\tcpsocket.h
+	"socket.h"
+
+1583727598 i:\my drive\teaching\lap trinh he thong mang\examples\echoclient\socket.h
+	<string>
+	<exception>
+
+1618544989 i:\my drive\teaching\lap trinh he thong mang\examples\echoclient\echotcpclient.h
+	"tcpclient.h"
+
+1586788727 i:\my drive\teaching\lap trinh he thong mang\examples\echoclient\tcpclient.h
+	"tcpsocket.h"
+
+1618545177 source:i:\my drive\teaching\lap trinh he thong mang\examples\echoclient\echotcpclient.cpp
+	"echotcpclient.h"
+	<iostream>
+
+1618545270 source:i:\my drive\teaching\lap trinh he thong mang\examples\echoclient\main.cpp
+	<iostream>
+	"echocli.h"
+
+1583507332 source:i:\my drive\teaching\lap trinh he thong mang\examples\echoclient\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1585746197 source:i:\my drive\teaching\lap trinh he thong mang\examples\echoclient\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+
+1585746028 source:i:\my drive\teaching\lap trinh he thong mang\examples\echoclient\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpsocket.h"
+
+1618542833 source:d:\my drive\teaching\lap trinh he thong mang\2021\lap trinh client\echoclient\cli.cpp
+	<iostream>
+	<cstring>
+	"cli.h"
+
+1618542639 d:\my drive\teaching\lap trinh he thong mang\2021\lap trinh client\echoclient\cli.h
+	<cstdint>
+	<string>
+
+1618545270 source:d:\my drive\teaching\lap trinh he thong mang\2021\lap trinh client\echoclient\main.cpp
+	<iostream>
+	"echocli.h"
+
+1633500730 d:\my drive\teaching\lap trinh he thong mang\2021\lap trinh client\echoclient\echocli.h
+	"cli.h"
+	"tcpsocket.h"
+	"echotcpclient.h"
+
+1585745736 d:\my drive\teaching\lap trinh he thong mang\2021\lap trinh client\echoclient\tcpsocket.h
+	"socket.h"
+
+1583727598 d:\my drive\teaching\lap trinh he thong mang\2021\lap trinh client\echoclient\socket.h
+	<string>
+	<exception>
+
+1618544989 d:\my drive\teaching\lap trinh he thong mang\2021\lap trinh client\echoclient\echotcpclient.h
+	"tcpclient.h"
+
+1586788727 d:\my drive\teaching\lap trinh he thong mang\2021\lap trinh client\echoclient\tcpclient.h
+	"tcpsocket.h"
+
+1583507332 source:d:\my drive\teaching\lap trinh he thong mang\2021\lap trinh client\echoclient\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1585746197 source:d:\my drive\teaching\lap trinh he thong mang\2021\lap trinh client\echoclient\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+
+1585746028 source:d:\my drive\teaching\lap trinh he thong mang\2021\lap trinh client\echoclient\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<errno.h>
+	"tcpsocket.h"
+
+1639463598 source:i:\my drive\teaching\lap trinh he thong mang\2022\lap trinh client\echoclient\echotcpclient.cpp
+	"echotcpclient.h"
+	<iostream>
+
+1639374110 i:\my drive\teaching\lap trinh he thong mang\2022\lap trinh client\echoclient\echotcpclient.h
+	"tcpclient.h"
+
+1639463686 i:\my drive\teaching\lap trinh he thong mang\2022\lap trinh client\echoclient\tcpclient.h
+	"tcpsocket.h"
+	<fstream>
+
+1639462544 i:\my drive\teaching\lap trinh he thong mang\2022\lap trinh client\echoclient\tcpsocket.h
+	"socket.h"
+
+1637042252 i:\my drive\teaching\lap trinh he thong mang\2022\lap trinh client\echoclient\socket.h
+	<string>
+	<exception>
+
+1618545270 source:i:\my drive\teaching\lap trinh he thong mang\2022\lap trinh client\echoclient\main.cpp
+	<iostream>
+	"echocli.h"
+
+1639464164 i:\my drive\teaching\lap trinh he thong mang\2022\lap trinh client\echoclient\echocli.h
+	"cli.h"
+	"tcpsocket.h"
+	"echotcpclient.h"
+
+1639302947 i:\my drive\teaching\lap trinh he thong mang\2022\lap trinh client\echoclient\cli.h
+	<cstdint>
+	<string>
+
+1639466460 source:i:\my drive\teaching\lap trinh he thong mang\2022\lap trinh client\echoclient\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+	<fstream>
+
+1639311197 source:i:\my drive\teaching\lap trinh he thong mang\2022\lap trinh client\echoclient\cli.cpp
+	<iostream>
+	<cstring>
+	"cli.h"
+
+1639304353 source:i:\my drive\teaching\lap trinh he thong mang\2022\lap trinh client\echoclient\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1639462686 source:i:\my drive\teaching\lap trinh he thong mang\2022\lap trinh client\echoclient\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+	"tcpsocket.h"
+
+1639466421 source:i:\my drive\teaching\lap trinh he thong mang\2022\lap trinh client\echoclient\echocli.cpp
+	"echocli.h"
+	<iostream>
+
+1648622932 source:c:\users\phong\dropbox\network programming\examples\lap trinh client\echoclient\echotcpclient.cpp
+	"echotcpclient.h"
+	<iostream>
+
+1648624044 c:\users\phong\dropbox\network programming\examples\lap trinh client\echoclient\echotcpclient.h
+	"tcpclient.h"
+
+1648538862 c:\users\phong\dropbox\network programming\examples\lap trinh client\echoclient\tcpclient.h
+	"tcpsocket.h"
+	<fstream>
+
+1648537735 c:\users\phong\dropbox\network programming\examples\lap trinh client\echoclient\tcpsocket.h
+	"socket.h"
+
+1647662317 c:\users\phong\dropbox\network programming\examples\lap trinh client\echoclient\socket.h
+	<string>
+	<exception>
+
+1648535602 source:c:\users\phong\dropbox\network programming\examples\lap trinh client\echoclient\main.cpp
+	<iostream>
+	"echocli.h"
+
+1648623658 c:\users\phong\dropbox\network programming\examples\lap trinh client\echoclient\echocli.h
+	"cli.h"
+	"tcpsocket.h"
+	"echotcpclient.h"
+
+1647603059 c:\users\phong\dropbox\network programming\examples\lap trinh client\echoclient\cli.h
+	<string>
+
+1648535401 source:c:\users\phong\dropbox\network programming\examples\lap trinh client\echoclient\cli.cpp
+	<iostream>
+	<sstream>
+	"cli.h"
+
+1648623311 source:c:\users\phong\dropbox\network programming\examples\lap trinh client\echoclient\echocli.cpp
+	"echocli.h"
+	<iostream>
+
+1647662320 source:c:\users\phong\dropbox\network programming\examples\lap trinh client\echoclient\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1648538827 source:c:\users\phong\dropbox\network programming\examples\lap trinh client\echoclient\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+	<fstream>
+
+1648538144 source:c:\users\phong\dropbox\network programming\examples\lap trinh client\echoclient\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+	"tcpsocket.h"
+
+1648535401 source:c:\echoclient\cli.cpp
+	<iostream>
+	<sstream>
+	"cli.h"
+
+1647603059 c:\echoclient\cli.h
+	<string>
+
+1648535602 source:c:\echoclient\main.cpp
+	<iostream>
+	"echocli.h"
+
+1658266440 c:\echoclient\echocli.h
+	"cli.h"
+	"tcpsocket.h"
+	"echotcpclient.h"
+
+1648537735 c:\echoclient\tcpsocket.h
+	"socket.h"
+
+1647662317 c:\echoclient\socket.h
+	<string>
+	<exception>
+
+1658282194 c:\echoclient\echotcpclient.h
+	"tcpclient.h"
+
+1650602751 c:\echoclient\tcpclient.h
+	"tcpsocket.h"
+
+1647662320 source:c:\echoclient\socket.cpp
+	"socket.h"
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+
+1650602777 source:c:\echoclient\tcpclient.cpp
+	"tcpclient.h"
+	<iostream>
+	<fstream>
+
+1648538144 source:c:\echoclient\tcpsocket.cpp
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netinet/in.h>
+	<cstring>
+	<errno.h>
+	"tcpsocket.h"
+
+1658327867 source:c:\echoclient\echocli.cpp
+	"echocli.h"
+	<iostream>
+	<cstring>
+
+1658327827 source:c:\echoclient\echotcpclient.cpp
+	"echotcpclient.h"
+	<iostream>
+	<fstream>
+	<ctime>
+	<unistd.h>
+	<sstream>
+
